@@ -14,6 +14,7 @@ function squareDigits(num){
     }
     
     return parseInt(result)
+
   }
 
   // Other good solution:
